@@ -1,0 +1,5 @@
+langgraph>=1.0
+langgraph-checkpoint-sqlite>=3.0
+huggingface_hub>=1.0
+python-dotenv>=1.0
+grandalf>=0.8

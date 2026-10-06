@@ -1,0 +1,32 @@
+# Credenciais
+.env
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Bancos SQLite gerados em tempo de execução
+eventos.db
+checkpoints.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Logs e temporários
+*.log
+*.tmp
+
+# IDE / sistema
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
